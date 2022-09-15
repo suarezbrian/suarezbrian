@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Brian A. Suarez</h1>
+
+## Hi there !, [Brian A. Suarez](https://github.com/suarezbrian) here 👋🏼👨🏻‍💻
+
+[![Gmail Badge](https://img.shields.io/badge/-suarezbrianalan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:suarezbrianalan@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Brian%20A.%20Suarez-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-suarez/ "Connect on LinkedIn")
+
+
 
 <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarezbrian&show_icons=true&locale=en&layout=compact" alt="suarezbrian" /></p>
 
