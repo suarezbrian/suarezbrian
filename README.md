@@ -2,7 +2,7 @@
 ## Hi there !, [Brian A. Suarez](https://github.com/suarezbrian) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-suarezbrianalan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:suarezbrianalan@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Brian%20A.%20Suarez-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-suarez/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Brian%20A.%20Suarez-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bran-suarez/ "Connect on LinkedIn")
 <p> <img src="https://komarev.com/ghpvc/?username=suarezbrian&label=Profile%20views&color=0e75b6&style=flat" alt="suarezbrian" /> </p>
 
 # About Me ~ 💬 :
