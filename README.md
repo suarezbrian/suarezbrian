@@ -7,9 +7,7 @@
 
 # About Me ~ 💬 :
 
-### - I'm 24 years and I'm a Junior Developer.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/7d/ec/42/7dec42217ec9a845c8f7fa0a6e63cbf5.gif">
+### - I'm 26 years and I'm a Junior Developer.
 
 ### - Learning :
 - ✨ Programming Full-Stack - I'm a studying at the UTN (Universidad Tecnológica Nacional in Buenos Aires).
