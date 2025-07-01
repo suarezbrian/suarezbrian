@@ -1,8 +1,6 @@
 
 ## Hi there !, [Brian A. Suarez](https://github.com/suarezbrian) here 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-suarezbrianalan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:suarezbrianalan@gmail.com "Connect via Email")
-
 <p> <img src="https://komarev.com/ghpvc/?username=suarezbrian&label=Profile%20views&color=0e75b6&style=flat" alt="suarezbrian" /> </p>
 
 # About Me ~ 💬 :
