@@ -1,7 +1,8 @@
 
 ## 👋 Hello! I'm Brian A. Suarez
 
-💻 Full-Stack Developer | Advanced Programming Student (UTN)
+💻 Full-Stack Developer | Advanced Programming Student (UTN) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suarezbrian&label=Profile%20views&color=0e75b6&style=flat" alt="suarezbrian" /> <a href="https://github.com/suarezbrian?tab=repositories"> <img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-30+-blue?logo=github" /> </a>
   
 #  🚀 About Me
@@ -15,3 +16,6 @@ I focus on writing clean, maintainable, and scalable code, adapting to different
 
 
 ##  [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-briansuarez.netlify.app-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://briansuarez.netlify.app/)
+<span style="font-size: 0.1em;">
+    <img src="https://flagcdn.com/ar.svg" width="16" alt="Bandera de Argentina"> Argentina, Buenos Aires.
+</span>
